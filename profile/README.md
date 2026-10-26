@@ -13,4 +13,8 @@
 
 **English | Português**
 
+<br>
+
+<img src="https://github-act-graph.rodriaum.com/graph?organization=StudioLoad&theme=shadcn-dark&hide_border=true" alt="Load Studio's Activity Graph" />
+
 </div>
